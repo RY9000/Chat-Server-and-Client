@@ -15,7 +15,7 @@ static wchar_t *textBuffer = NULL;
 
 
 net::Client networking;
-#define serverIP		"192.168.1.69"
+#define serverIP		"127.0.0.1"
 #define serverPort		56565
 
 
