@@ -2,7 +2,7 @@
 
 
 
-A simple project using non-boost Asio.
+**A simple project using non-boost Asio.**
 
 
 
@@ -10,6 +10,7 @@ A simple project using non-boost Asio.
 
 
 
-The messages between clients and the server.
+
+**The messages between clients and the server.**
 
 ![msg](https://github.com/RY9000/Chat-Server-and-Client-/assets/92776817/3e33b4fb-f0b1-435b-a628-36c175f70b89)
