@@ -2,9 +2,14 @@
 
 A simple chat application including the backend and the frontend using non-boost Asio.
 
+## Environment
+
+1. Windows 10, Windows 11
+2. Visual Studio
+3. non-boost Asio
+
 ## Demo
 https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/20c57840-7bf8-4438-b902-9844f16eb389
-
 
 ## Description
 
