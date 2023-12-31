@@ -1,6 +1,6 @@
 # Chat-Server-and-Client
 
-A simple chat application including the backend and the frontend using non-boost Asio.
+A simple chat application running on Windows using non-boost Asio, including the backend and the frontend.
 
 ## Environment
 
@@ -9,7 +9,7 @@ A simple chat application including the backend and the frontend using non-boost
 3. non-boost Asio
 
 ## Demo
-https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/20c57840-7bf8-4438-b902-9844f16eb389
+https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/00c60585-bf67-4255-a739-144f4a0bd7ad
 
 ## Description
 
