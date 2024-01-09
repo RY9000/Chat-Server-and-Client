@@ -24,7 +24,6 @@ int main()
 
         CloseHandle(pi.hThread);
         CloseHandle(pi.hProcess);
-        Sleep(10);
     }
 
     return 0;
