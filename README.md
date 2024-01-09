@@ -9,6 +9,9 @@ A simple chat application running on Windows using non-boost Asio, including the
 3. non-boost Asio
 
 ## Demo
+
+Set the IP of the server in file "ClientUtility.h". Set the port used for listen in file "NetCommon.h". 
+
 https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/9ff3b266-0ddb-46b2-b36f-606e347af813
 
 ## Description
