@@ -20,6 +20,6 @@ https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/9ff3b266-0ddb-4
 
 <img width="650" alt="modules" src="https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/6ad345c5-bee7-4df0-869d-5ec15fc4cc71">
 
-### Protocol
+### Messaging Protocol
 
-![msg](https://github.com/RY9000/Chat-Server-and-Client-/assets/92776817/3e33b4fb-f0b1-435b-a628-36c175f70b89)
+<img width="647" alt="messaging" src="https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/54547eb9-5998-4b9e-8f9a-1b3fba52a194">
