@@ -18,7 +18,7 @@ https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/9ff3b266-0ddb-4
 
 ### Modules
 
-![server-client](https://github.com/RY9000/Chat-Server-and-Client-/assets/92776817/23e1ad01-83e1-420c-ab2e-f94901575d4d)
+<img width="650" alt="modules" src="https://github.com/RY9000/Chat-Server-and-Client/assets/92776817/6ad345c5-bee7-4df0-869d-5ec15fc4cc71">
 
 ### Protocol
 
